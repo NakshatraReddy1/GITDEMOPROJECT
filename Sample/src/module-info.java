@@ -5,5 +5,5 @@
  * @author HP
  *
  */
-module Nakshatra {
+module Sample {
 }
